@@ -7,7 +7,7 @@ week = int(input("Please enter week (of fbs): \n"))
 fbs_data = retriveve_fbs_data(week)
 ncaa_df = pd.DataFrame(fbs_data)
 
-picks = pd.read_csv('week-1.csv')
+picks = pd.read_csv('data.csv')
 picks.columns.values[1] = col_names["NAME"]
 picks.columns.values[2] = col_names["CFB_OVER"]
 picks.columns.values[3] = col_names["CFB_UNDER"]
@@ -41,27 +41,21 @@ def calculate_under_results(df:pd.DataFrame, str:str):
     results = retrieve_game(df, str)
     game = results["game"]
     odds = results["odds"]
-    has_odds = bool(game.get("provider").values[0])
-    if has_odds:
-        scores = return_values(game, ["overUnder", 'homeScore','awayScore'])
-        return scores[0] >= scores[1] + scores[2]
-    else:
-        print(f"No odds for this game {str}")
-        print(f"User odds {odds}")
-        return False
+    if not results['found']:
+        print(f"Not able to verify game: {str}")
+
+    scores = return_values(game, ['homeScore','awayScore'])
+    return float(odds) > scores[0] + scores[1]
 
 def calculate_over_results(df:pd.DataFrame, str:str):
     results = retrieve_game(df, str)
     game = results["game"]
     odds = results["odds"]
-    has_odds = bool(game.get("provider").values[0])
-    if has_odds:
-        scores = return_values(game, ["overUnder", 'homeScore','awayScore'])
-        return scores[0] <= scores[1] + scores[2]
-    else:
-        print(f"No odds for this game {str}")
-        print(f"User odds {odds}")
-        return False
+    if not results['found']:
+        print(f"Not able to verify game: {str}")
+
+    scores = return_values(game, ['homeScore','awayScore'])
+    return float(odds) <= scores[0] + scores[1]
 
 
 def calculate_favorite_results(df:pd.DataFrame, str:str):
