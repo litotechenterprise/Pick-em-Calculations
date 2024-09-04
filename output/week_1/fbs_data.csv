@@ -1,0 +1,178 @@
+,id,season,week,startDate,homeTeam,homeConference,homeScore,awayTeam,awayConference,awayScore,provider,spread,formattedSpread,spreadOpen,overUnder,overUnderOpen,homeMoneyline,awayMoneyline
+0,401655657,2024,1,2024-08-31T17:00:00.000Z,Butler,Pioneer,40.0,Upper Iowa,Great Lakes,7.0,,,,,,,,
+1,401655628,2024,1,2024-08-31T20:00:00.000Z,Northern Arizona,Big Sky,66.0,Lincoln University (CA),Independent DII,6.0,,,,,,,,
+2,401674318,2024,1,2024-08-29T22:00:00.000Z,Northern Michigan,GLIAC,7.0,Minnesota-Duluth,Northern Sun,35.0,,,,,,,,
+3,401628456,2024,1,2024-08-31T23:30:00.000Z,Oregon,Big Ten,24.0,Idaho,Big Sky,14.0,,,,,,,,
+4,401628332,2024,1,2024-08-31T23:30:00.000Z,Texas A&M,SEC,13.0,Notre Dame,FBS Independents,23.0,DraftKings,-2.5,Texas A&M -2.5,-1,46.5,47,-148.0,124.0
+5,401654562,2024,1,2024-08-30T00:00:00.000Z,South Dakota,MVFC,45.0,Northern State,Northern Sun,3.0,,,,,,,,
+6,401674184,2024,1,2024-08-29T23:00:00.000Z,Northwest Missouri State,Mid America,22.0,Minnesota State,Northern Sun,36.0,,,,,,,,
+7,401655860,2024,1,2024-08-30T00:00:00.000Z,St. Thomas (MN),Pioneer,13.0,Sioux Falls,Northern Sun,34.0,,,,,,,,
+8,401675386,2024,1,2024-09-01T20:00:00.000Z,Virginia State,CIAA,23.0,Benedict College,SIAC,7.0,,,,,,,,
+9,401675504,2024,1,2024-08-31T23:00:00.000Z,Valdosta State,Gulf South,42.0,Albany State (GA),SIAC,10.0,,,,,,,,
+10,401673041,2024,1,2024-08-29T22:00:00.000Z,Morehead State,Pioneer,17.0,Central State,SIAC,10.0,,,,,,,,
+11,401675597,2024,1,2024-08-31T19:00:00.000Z,Morehouse,SIAC,11.0,Edward Waters,SIAC,28.0,,,,,,,,
+12,401675508,2024,1,2024-08-31T23:00:00.000Z,West Alabama,Gulf South,16.0,Miles,SIAC,15.0,,,,,,,,
+13,401675113,2024,1,2024-09-01T23:00:00.000Z,Johnson C Smith,CIAA,21.0,Tuskegee,SIAC,13.0,,,,,,,,
+14,401675586,2024,1,2024-08-31T17:00:00.000Z,Fort Valley State,SIAC,42.0,Clark Atlanta,SIAC,45.0,,,,,,,,
+15,401634300,2024,1,2024-08-31T02:30:00.000Z,Stanford,ACC,27.0,TCU,Big 12,34.0,DraftKings,8.5,TCU -8.5,8.5,61,61,250.0,-310.0
+16,401628583,2024,1,2024-08-30T01:00:00.000Z,Eastern Washington,Big Sky,42.0,Monmouth,CAA,27.0,,,,,,,,
+17,401654845,2024,1,2024-08-30T01:00:00.000Z,Illinois,Big Ten,45.0,Eastern Illinois,Big South-OVC,0.0,,,,,,,,
+18,401641032,2024,1,2024-09-01T01:00:00.000Z,New Mexico State,Conference USA,23.0,Southeast Missouri State,Big South-OVC,16.0,,,,,,,,
+19,401636612,2024,1,2024-08-31T23:00:00.000Z,Kansas State,Big 12,41.0,UT Martin,Big South-OVC,6.0,,,,,,,,
+20,401641023,2024,1,2024-08-31T23:00:00.000Z,Middle Tennessee,Conference USA,32.0,Tennessee Tech,Big South-OVC,25.0,,,,,,,,
+21,401636606,2024,1,2024-08-30T00:00:00.000Z,Kansas,Big 12,48.0,Lindenwood,Big South-OVC,3.0,,,,,,,,
+22,401628586,2024,1,2024-08-31T22:00:00.000Z,Liberty,Conference USA,41.0,Campbell,CAA,24.0,,,,,,,,
+23,401628581,2024,1,2024-08-29T23:00:00.000Z,Wake Forest,ACC,45.0,North Carolina A&T,CAA,13.0,,,,,,,,
+24,401628327,2024,1,2024-08-30T00:00:00.000Z,Missouri,SEC,51.0,Murray State,MVFC,0.0,,,,,,,,
+25,401636607,2024,1,2024-08-30T01:00:00.000Z,Utah,Big 12,49.0,Southern Utah,UAC,0.0,,,,,,,,
+26,401636613,2024,1,2024-08-31T23:30:00.000Z,Texas Tech,Big 12,52.0,Abilene Christian,UAC,51.0,,,,,,,,
+27,401632062,2024,1,2024-08-31T16:00:00.000Z,Louisville,ACC,62.0,Austin Peay,UAC,0.0,,,,,,,,
+28,401632064,2024,1,2024-08-31T23:00:00.000Z,Arkansas State,Sun Belt,34.0,Central Arkansas,UAC,31.0,,,,,,,,
+29,401628326,2024,1,2024-08-31T22:00:00.000Z,Mississippi State,SEC,56.0,Eastern Kentucky,UAC,7.0,,,,,,,,
+30,401645321,2024,1,2024-08-31T23:00:00.000Z,Memphis,American Athletic,40.0,North Alabama,UAC,0.0,,,,,,,,
+31,401654662,2024,1,2024-08-24T23:00:00.000Z,Southeast Missouri State,Big South-OVC,37.0,North Alabama,UAC,15.0,,,,,,,,
+32,401636610,2024,1,2024-08-31T23:00:00.000Z,Baylor,Big 12,45.0,Tarleton State,UAC,3.0,,,,,,,,
+33,401628328,2024,1,2024-08-30T23:00:00.000Z,Oklahoma,SEC,51.0,Temple,American Athletic,3.0,DraftKings,-42.5,Oklahoma -42.5,-42.5,59.5,59.5,,
+34,401628319,2024,1,2024-08-31T23:00:00.000Z,Alabama,SEC,63.0,Western Kentucky,Conference USA,0.0,DraftKings,-31,Alabama -31,-31,60,60.5,-20000.0,3500.0
+35,401628449,2024,1,2024-08-31T19:30:00.000Z,Indiana,Big Ten,31.0,Florida International,Conference USA,7.0,DraftKings,-20.5,Indiana -20.5,-19.5,50.5,51,-3200.0,1400.0
+36,401628454,2024,1,2024-08-31T19:30:00.000Z,Nebraska,Big Ten,40.0,UTEP,Conference USA,7.0,DraftKings,-27.5,Nebraska -27.5,-27.5,49,49,-3600.0,1500.0
+37,401643774,2024,1,2024-09-01T00:00:00.000Z,Charlotte,American Athletic,7.0,James Madison,Sun Belt,30.0,DraftKings,7.5,James Madison -7.5,9,51,51,215.0,-265.0
+38,401628329,2024,1,2024-08-31T20:15:00.000Z,South Carolina,SEC,23.0,Old Dominion,Sun Belt,19.0,DraftKings,-20,South Carolina -20,-20,54.5,55.5,-2100.0,1100.0
+39,401640998,2024,1,2024-08-30T00:00:00.000Z,Jacksonville State,Conference USA,27.0,Coastal Carolina,Sun Belt,55.0,DraftKings,-3.5,Jacksonville State -3.5,-3.5,56.5,57,-180.0,150.0
+40,401634302,2024,1,2024-09-01T00:00:00.000Z,Georgia Tech,ACC,35.0,Georgia State,Sun Belt,12.0,DraftKings,-20.5,Georgia Tech -20.5,-20.5,57,57.5,-2100.0,1100.0
+41,401628324,2024,1,2024-08-31T23:45:00.000Z,Kentucky,SEC,31.0,Southern Mississippi,Sun Belt,0.0,DraftKings,-25.5,Kentucky -25.5,-25.5,50.5,50.5,-5000.0,1800.0
+42,401645322,2024,1,2024-08-31T16:00:00.000Z,Navy,American Athletic,49.0,Bucknell,Patriot,21.0,,,,,,,,
+43,401656600,2024,1,2024-08-30T23:00:00.000Z,Maine,CAA,17.0,Colgate,Patriot,14.0,,,,,,,,
+44,401644729,2024,1,2024-08-29T23:00:00.000Z,Bowling Green,Mid-American,41.0,Fordham,Patriot,17.0,,,,,,,,
+45,401628588,2024,1,2024-08-31T23:00:00.000Z,Rhode Island,CAA,20.0,Holy Cross,Patriot,17.0,,,,,,,,
+46,401644727,2024,1,2024-08-29T23:00:00.000Z,Buffalo,Mid-American,30.0,Lafayette,Patriot,13.0,,,,,,,,
+47,401645319,2024,1,2024-08-30T22:00:00.000Z,Army,American Athletic,42.0,Lehigh,Patriot,7.0,,,,,,,,
+48,401634143,2024,1,2024-08-29T23:00:00.000Z,Mercer,Southern,63.0,Presbyterian College,Pioneer,10.0,,,,,,,,
+49,401643776,2024,1,2024-09-01T00:00:00.000Z,Texas State,Sun Belt,34.0,Lamar,Southland,27.0,,,,,,,,
+50,401636372,2024,1,2024-08-24T23:30:00.000Z,Norfolk State,MEAC,23.0,Florida A&M,SWAC,24.0,,,,,,,,
+51,401628321,2024,1,2024-08-31T23:30:00.000Z,Auburn,SEC,73.0,Alabama A&M,SWAC,3.0,,,,,,,,
+52,401636363,2024,1,2024-08-31T23:00:00.000Z,South Florida,American Athletic,48.0,Bethune-Cookman,SWAC,3.0,,,,,,,,
+53,401636387,2024,1,2024-08-29T23:00:00.000Z,Louisiana Monroe,Sun Belt,30.0,Jackson State,SWAC,14.0,,,,,,,,
+54,401654584,2024,1,2024-08-31T22:00:00.000Z,Tennessee State,Big South-OVC,41.0,Mississippi Valley State,SWAC,21.0,,,,,,,,
+55,401645316,2024,1,2024-08-30T00:00:00.000Z,UAB,American Athletic,41.0,Alcorn State,SWAC,3.0,,,,,,,,
+56,401628320,2024,1,2024-08-29T23:30:00.000Z,Arkansas,SEC,70.0,Arkansas-Pine Bluff,SWAC,0.0,,,,,,,,
+57,401654557,2024,1,2024-09-01T00:00:00.000Z,McNeese,Southland,21.0,Southern,SWAC,7.0,,,,,,,,
+58,401654565,2024,1,2024-08-31T23:00:00.000Z,Prairie View,SWAC,9.0,Texas Southern,SWAC,27.0,,,,,,,,
+59,401636380,2024,1,2024-09-01T00:00:00.000Z,Louisiana,Sun Belt,40.0,Grambling,SWAC,10.0,,,,,,,,
+60,401676691,2024,1,2024-08-31T17:00:00.000Z,Shaw,CIAA,17.0,Elizabeth City State,CIAA,13.0,,,,,,,,
+61,401628451,2024,1,2024-08-31T16:00:00.000Z,Maryland,Big Ten,50.0,Connecticut,FBS Independents,7.0,DraftKings,-20.5,Maryland -20.5,-21,47.5,47.5,-1350.0,800.0
+62,401675404,2024,1,2024-08-31T19:00:00.000Z,Kentucky State,SIAC,7.0,Virginia Union,CIAA,69.0,,,,,,,,
+63,401677383,2024,1,2024-08-31T17:00:00.000Z,Bluefield,CIAA,3.0,Winston-Salem,CIAA,34.0,,,,,,,,
+64,401654641,2024,1,2024-08-31T16:30:00.000Z,Georgetown,Patriot,46.0,Davidson,Pioneer,24.0,,,,,,,,
+65,401654582,2024,1,2024-08-31T21:00:00.000Z,Northern Iowa,MVFC,35.0,Valparaiso,Pioneer,7.0,,,,,,,,
+66,401674363,2024,1,2024-08-29T23:00:00.000Z,Edinboro,Pennsylvania State Athletic,12.0,East Stroudsburg,Pennsylvania State Athletic,24.0,,,,,,,,
+67,401674274,2024,1,2024-08-29T23:00:00.000Z,Fairmont State,Mountain East,56.0,Seton Hill College,Pennsylvania State Athletic,24.0,,,,,,,,
+68,401676074,2024,1,2024-08-29T23:00:00.000Z,Millersville,Pennsylvania State Athletic,7.0,Clarion,Pennsylvania State Athletic,36.0,,,,,,,,
+69,401628584,2024,1,2024-08-30T23:30:00.000Z,Duke,ACC,26.0,Elon,CAA,3.0,,,,,,,,
+70,401628582,2024,1,2024-08-29T23:00:00.000Z,UCF,Big 12,57.0,New Hampshire,CAA,3.0,,,,,,,,
+71,401628589,2024,1,2024-08-31T22:00:00.000Z,Virginia,ACC,34.0,Richmond,CAA,13.0,,,,,,,,
+72,401628590,2024,1,2024-08-31T21:00:00.000Z,Marshall,Sun Belt,45.0,Stony Brook,CAA,3.0,,,,,,,,
+73,401674295,2024,1,2024-08-29T23:00:00.000Z,West Liberty,Mountain East,21.0,Walsh,Great Midwest Athletic,41.0,,,,,,,,
+74,401655621,2024,1,2024-09-01T00:00:00.000Z,San Diego,Pioneer,27.0,Cal Poly,Big Sky,21.0,,,,,,,,
+75,401634301,2024,1,2024-08-31T21:00:00.000Z,California,ACC,31.0,UC Davis,Big Sky,13.0,,,,,,,,
+76,401628591,2024,1,2024-08-31T18:30:00.000Z,Cincinnati,Big 12,38.0,Towson,CAA,20.0,,,,,,,,
+77,401638359,2024,1,2024-08-31T23:00:00.000Z,Incarnate Word,Southland,28.0,Northern Colorado,Big Sky,7.0,,,,,,,,
+78,401643704,2024,1,2024-08-31T22:30:00.000Z,Oregon State,Pac-12,38.0,Idaho State,Big Sky,15.0,,,,,,,,
+79,401643697,2024,1,2024-08-24T20:00:00.000Z,New Mexico,Mountain West,31.0,Montana State,Big Sky,35.0,DraftKings,10.5,Montana State -10.5,9,54,53.5,360.0,-470.0
+80,401632066,2024,1,2024-09-01T02:00:00.000Z,Utah Tech,UAC,7.0,Montana State,Big Sky,31.0,,,,,,,,
+81,401637159,2024,1,2024-08-31T19:00:00.000Z,Washington State,Pac-12,70.0,Portland State,Big Sky,30.0,,,,,,,,
+82,401643698,2024,1,2024-08-30T02:00:00.000Z,San José State,Mountain West,42.0,Sacramento State,Big Sky,24.0,,,,,,,,
+83,401628460,2024,1,2024-09-01T03:00:00.000Z,Washington,Big Ten,35.0,Weber State,Big Sky,3.0,,,,,,,,
+84,401628585,2024,1,2024-08-31T23:00:00.000Z,Albany,CAA,27.0,Long Island University,NEC,21.0,,,,,,,,
+85,401654497,2024,1,2024-08-31T22:00:00.000Z,Sacred Heart,FCS Independents,15.0,Delaware State,MEAC,17.0,,,,,,,,
+86,401643858,2024,1,2024-08-25T03:59:00.000Z,Hawai'i,Mountain West,35.0,Delaware State,MEAC,14.0,DraftKings,-38,Hawai'i -38,-38,57.5,55.5,,
+87,401628458,2024,1,2024-08-29T22:00:00.000Z,Rutgers,Big Ten,44.0,Howard,MEAC,7.0,,,,,,,,
+88,401654510,2024,1,2024-08-31T22:00:00.000Z,Hampton,CAA,28.0,Morgan State,MEAC,30.0,,,,,,,,
+89,401645320,2024,1,2024-08-31T22:00:00.000Z,East Carolina,American Athletic,42.0,Norfolk State,MEAC,3.0,,,,,,,,
+90,401636343,2024,1,2024-09-01T19:00:00.000Z,Alabama State,SWAC,24.0,North Carolina Central,MEAC,31.0,,,,,,,,
+91,401636373,2024,1,2024-08-31T22:00:00.000Z,Florida A&M,SWAC,22.0,South Carolina State,MEAC,18.0,,,,,,,,
+92,401634197,2024,1,2024-08-31T19:30:00.000Z,Iowa State,Big 12,21.0,North Dakota,MVFC,3.0,,,,,,,,
+93,401675555,2024,1,2024-08-31T23:00:00.000Z,University of Texas of the Permian Basin,Lone Star,41.0,Western New Mexico,Lone Star,3.0,,,,,,,,
+94,401634206,2024,1,2024-08-30T00:00:00.000Z,Colorado,Big 12,31.0,North Dakota State,MVFC,26.0,DraftKings,-9,Colorado -9,-8,59,59.5,-470.0,360.0
+95,401634212,2024,1,2024-08-31T18:00:00.000Z,Oklahoma State,Big 12,44.0,South Dakota State,MVFC,20.0,DraftKings,-9.5,Oklahoma State -9.5,-9,54,54,-500.0,380.0
+96,401644728,2024,1,2024-08-29T23:30:00.000Z,Toledo,Mid-American,49.0,Duquesne,NEC,10.0,,,,,,,,
+97,401628450,2024,1,2024-08-31T16:00:00.000Z,Iowa,Big Ten,40.0,Illinois State,MVFC,0.0,,,,,,,,
+98,401634169,2024,1,2024-08-31T16:00:00.000Z,Purdue,Big Ten,49.0,Indiana State,MVFC,0.0,,,,,,,,
+99,401634180,2024,1,2024-09-01T01:00:00.000Z,Montana,Big Sky,29.0,Missouri State,MVFC,24.0,,,,,,,,
+100,401634240,2024,1,2024-09-01T00:00:00.000Z,BYU,Big 12,41.0,Southern Illinois,MVFC,13.0,,,,,,,,
+101,401628580,2024,1,2024-08-29T22:00:00.000Z,Villanova,CAA,24.0,Youngstown State,MVFC,17.0,,,,,,,,
+102,401644730,2024,1,2024-08-29T23:00:00.000Z,Central Michigan,Mid-American,66.0,Central Connecticut,NEC,10.0,,,,,,,,
+103,401654646,2024,1,2024-08-31T16:00:00.000Z,Dayton,Pioneer,18.0,St Francis (PA),NEC,10.0,,,,,,,,
+104,401628453,2024,1,2024-08-30T23:00:00.000Z,Michigan State,Big Ten,16.0,Florida Atlantic,American Athletic,10.0,DraftKings,-11.5,Michigan State -11.5,-11.5,47,47,-535.0,400.0
+105,401643775,2024,1,2024-08-31T21:00:00.000Z,South Alabama,Sun Belt,38.0,North Texas,American Athletic,52.0,DraftKings,-6,South Alabama -6,-7,65,64.5,-218.0,180.0
+106,401641039,2024,1,2024-08-31T23:00:00.000Z,Rice,American Athletic,14.0,Sam Houston State,Conference USA,34.0,DraftKings,-10.5,Rice -10.5,-11.5,49,48.5,-345.0,275.0
+107,401643702,2024,1,2024-09-01T00:00:00.000Z,San Diego State,Mountain West,45.0,Texas A&M-Commerce,Southland,14.0,,,,,,,,
+108,401634133,2024,1,2024-08-31T19:30:00.000Z,Appalachian State,Sun Belt,38.0,East Tennessee State,Southern,10.0,,,,,,,,
+109,401628592,2024,1,2024-08-29T23:00:00.000Z,William & Mary,CAA,41.0,VMI,Southern,7.0,,,,,,,,
+110,401634303,2024,1,2024-09-01T00:00:00.000Z,SMU,ACC,59.0,Houston Christian,Southland,7.0,,,,,,,,
+111,401632063,2024,1,2024-08-31T22:00:00.000Z,West Georgia,UAC,38.0,Samford,Southern,29.0,,,,,,,,
+112,401645317,2024,1,2024-08-30T00:00:00.000Z,Tulane,American Athletic,52.0,Southeastern Louisiana,Southland,0.0,,,,,,,,
+113,401628330,2024,1,2024-08-31T16:45:00.000Z,Tennessee,SEC,69.0,Chattanooga,Southern,3.0,,,,,,,,
+114,401628325,2024,1,2024-08-31T23:00:00.000Z,Ole Miss,SEC,76.0,Furman,Southern,0.0,,,,,,,,
+115,401654844,2024,1,2024-08-31T22:00:00.000Z,Charleston Southern,Big South-OVC,21.0,The Citadel,Southern,22.0,,,,,,,,
+116,401634299,2024,1,2024-08-29T23:00:00.000Z,NC State,ACC,38.0,Western Carolina,Southern,21.0,,,,,,,,
+117,401634152,2024,1,2024-08-29T23:00:00.000Z,Gardner-Webb,Big South-OVC,20.0,Wofford,Southern,21.0,,,,,,,,
+118,401654665,2024,1,2024-08-24T19:30:00.000Z,Tarleton State,UAC,26.0,McNeese,Southland,23.0,,,,,,,,
+119,401641007,2024,1,2024-09-01T00:00:00.000Z,Louisiana Tech,Conference USA,25.0,Nicholls,Southland,17.0,,,,,,,,
+120,401645318,2024,1,2024-08-30T00:00:00.000Z,Tulsa,American Athletic,62.0,Northwestern State,Southland,28.0,,,,,,,,
+121,401674289,2024,1,2024-08-31T22:00:00.000Z,UNC Pembroke,Mountain East,12.0,Wingate,South Atlantic,17.0,,,,,,,,
+122,401673279,2024,1,2024-08-30T00:00:00.000Z,Texas A&M-Kingsville,Lone Star,13.0,Colorado Mesa,Rocky Mountain,16.0,,,,,,,,
+123,401673254,2024,1,2024-08-30T00:00:00.000Z,South Dakota Mines,Rocky Mountain,6.0,Colorado State-Pueblo,Rocky Mountain,35.0,,,,,,,,
+124,401674188,2024,1,2024-09-01T00:00:00.000Z,Pittsburg State,Mid America,19.0,Ferris State,GLIAC,3.0,,,,,,,,
+125,401674307,2024,1,2024-08-29T23:00:00.000Z,Bemidji State,Northern Sun,19.0,Michigan Tech,GLIAC,13.0,,,,,,,,
+126,401674525,2024,1,2024-08-29T23:00:00.000Z,Wayne State (NE),Northern Sun,49.0,Missouri S&T,Great Lakes,17.0,,,,,,,,
+127,401655664,2024,1,2024-08-29T23:30:00.000Z,Drake,Pioneer,,Quincy,Great Lakes,,,,,,,,,
+128,401673264,2024,1,2024-08-31T20:00:00.000Z,Fort Lewis,Rocky Mountain,20.0,William Jewell College,Great Lakes,35.0,,,,,,,,
+129,401675476,2024,1,2024-08-29T23:00:00.000Z,Mars Hill,South Atlantic,16.0,Delta State,Gulf South,47.0,,,,,,,,
+130,401674159,2024,1,2024-08-30T00:00:00.000Z,Fort Hays State,Mid America,21.0,Angelo State,Lone Star,7.0,,,,,,,,
+131,401673257,2024,1,2024-08-30T00:00:00.000Z,New Mexico Highlands,Rocky Mountain,37.0,Eastern New Mexico,Lone Star,63.0,,,,,,,,
+132,401675545,2024,1,2024-08-29T04:00:00.000Z,Sul Ross State,Lone Star,21.0,West Texas A&M,Lone Star,42.0,,,,,,,,
+133,401675538,2024,1,2024-08-30T00:00:00.000Z,Midwestern State,Lone Star,18.0,Missouri Southern State,Mid America,11.0,,,,,,,,
+134,401674174,2024,1,2024-08-29T23:00:00.000Z,Northeastern State,Independent DII,31.0,Missouri Western,Mid America,33.0,,,,,,,,
+135,401673282,2024,1,2024-08-30T00:00:00.000Z,Chadron State,Rocky Mountain,6.0,Nebraska-Kearney,Mid America,18.0,,,,,,,,
+136,401674150,2024,1,2024-08-30T00:00:00.000Z,Emporia State,Mid America,30.0,Washburn,Mid America,14.0,,,,,,,,
+137,401675804,2024,1,2024-08-31T22:00:00.000Z,Livingstone,CIAA,7.0,Charleston (WV),Mountain East,38.0,,,,,,,,
+138,401673381,2024,1,2024-08-31T17:00:00.000Z,Emory & Henry,South Atlantic,38.0,Glenville State,Mountain East,7.0,,,,,,,,
+139,401674303,2024,1,2024-08-31T17:00:00.000Z,Post University,Northeast 10,41.0,WV Wesleyan,Mountain East,24.0,,,,,,,,
+140,401635525,2024,1,2024-08-24T16:00:00.000Z,Georgia Tech,ACC,24.0,Florida State,ACC,21.0,DraftKings,11.5,Florida State -11.5,13,55.5,56,320.0,-410.0
+141,401634306,2024,1,2024-09-02T23:30:00.000Z,Florida State,ACC,13.0,Boston College,ACC,28.0,DraftKings,-16.5,Florida State -16.5,-22,50,51.5,-900.0,600.0
+142,401628448,2024,1,2024-08-30T00:00:00.000Z,Minnesota,Big Ten,17.0,North Carolina,ACC,19.0,DraftKings,-2.5,Minnesota -2.5,-2,50.5,50.5,105.0,-125.0
+143,401628323,2024,1,2024-08-31T16:00:00.000Z,Georgia,SEC,34.0,Clemson,ACC,3.0,DraftKings,-14,Georgia -14,-14,49,47.5,-455.0,350.0
+144,401628333,2024,1,2024-08-31T16:00:00.000Z,Vanderbilt,SEC,34.0,Virginia Tech,ACC,27.0,DraftKings,13.5,Virginia Tech -13.5,13,53.5,54,390.0,-520.0
+145,401628322,2024,1,2024-08-31T19:30:00.000Z,Florida,SEC,17.0,Miami,ACC,41.0,DraftKings,2.5,Miami -2.5,2.5,54.5,54.5,120.0,-142.0
+146,401643696,2024,1,2024-08-25T00:00:00.000Z,Nevada,Mountain West,24.0,SMU,ACC,29.0,DraftKings,27,SMU -27,25,56.5,57,1500.0,-3600.0
+147,401628459,2024,1,2024-08-31T23:30:00.000Z,Hawai'i,Mountain West,13.0,UCLA,Big Ten,16.0,DraftKings,13.5,UCLA -13.5,13.5,55.5,55.5,410.0,-550.0
+148,401628334,2024,1,2024-09-01T23:30:00.000Z,LSU,SEC,20.0,USC,Big Ten,27.0,DraftKings,-4,LSU -4,-6,66.5,62.5,-185.0,154.0
+149,401628457,2024,1,2024-08-31T16:00:00.000Z,West Virginia,Big 12,12.0,Penn State,Big Ten,34.0,DraftKings,10,Penn State -10,10.5,51.5,51,235.0,-290.0
+150,401641015,2024,1,2024-08-31T19:30:00.000Z,UT San Antonio,American Athletic,28.0,Kennesaw State,Conference USA,16.0,DraftKings,-24,UT San Antonio -24,-24,49.5,50,-3600.0,1500.0
+151,401644683,2024,1,2024-08-31T19:30:00.000Z,Northwestern,Big Ten,13.0,Miami (OH),Mid-American,6.0,DraftKings,-4,Northwestern -4,-4,43,43,-148.0,124.0
+152,401634304,2024,1,2024-08-31T19:30:00.000Z,Syracuse,ACC,38.0,Ohio,Mid-American,22.0,DraftKings,-17.5,Syracuse -17.5,-17,47.5,47.5,-850.0,575.0
+153,401628455,2024,1,2024-08-31T19:30:00.000Z,Ohio State,Big Ten,52.0,Akron,Mid-American,6.0,DraftKings,-50.5,Ohio State -50.5,-50.5,58.5,58.5,,
+154,401629039,2024,1,2024-08-31T19:30:00.000Z,UMass,FBS Independents,14.0,Eastern Michigan,Mid-American,28.0,DraftKings,-2.5,UMass -2.5,1,49,49,-130.0,110.0
+155,401634305,2024,1,2024-08-31T16:00:00.000Z,Pittsburgh,ACC,55.0,Kent State,Mid-American,24.0,DraftKings,-23.5,Pittsburgh -23.5,-23.5,53.5,53.5,-2100.0,1100.0
+156,401628461,2024,1,2024-08-31T01:00:00.000Z,Wisconsin,Big Ten,28.0,Western Michigan,Mid-American,14.0,DraftKings,-24,Wisconsin -24,-24,56.5,56.5,-3200.0,1400.0
+157,401628331,2024,1,2024-08-31T19:30:00.000Z,Texas,SEC,52.0,Colorado State,Mountain West,0.0,DraftKings,-35.5,Texas -35.5,-35.5,59,59,-20000.0,3500.0
+158,401643700,2024,1,2024-08-31T20:00:00.000Z,Georgia Southern,Sun Belt,45.0,Boise State,Mountain West,56.0,DraftKings,12,Boise State -12,11.5,57,57,390.0,-520.0
+159,401636608,2024,1,2024-09-01T02:30:00.000Z,Arizona,Big 12,61.0,New Mexico,Mountain West,39.0,DraftKings,-30.5,Arizona -30.5,-30.5,54,53.5,-10000.0,3000.0
+160,401628452,2024,1,2024-08-31T23:30:00.000Z,Michigan,Big Ten,30.0,Fresno State,Mountain West,10.0,DraftKings,-21,Michigan -21,-21,48,48,-1800.0,1000.0
+161,401636611,2024,1,2024-08-31T23:00:00.000Z,Houston,Big 12,7.0,UNLV,Mountain West,27.0,DraftKings,-1.5,Houston -1.5,-3,55,56.5,-170.0,142.0
+162,401643701,2024,1,2024-08-31T23:00:00.000Z,Troy,Sun Belt,26.0,Nevada,Mountain West,28.0,DraftKings,-15.5,Troy -15.5,-16,47,46.5,-278.0,225.0
+163,401636609,2024,1,2024-09-01T02:30:00.000Z,Arizona State,Big 12,48.0,Wyoming,Mountain West,7.0,DraftKings,-6.5,Arizona State -6.5,-6.5,47.5,47.5,-245.0,200.0
+164,401644731,2024,1,2024-08-31T19:30:00.000Z,Northern Illinois,Mid-American,54.0,Western Illinois,Big South-OVC,15.0,,,,,,,,
+165,401628579,2024,1,2024-08-29T23:00:00.000Z,Delaware,CAA,48.0,Bryant,CAA,17.0,,,,,,,,
+166,401643699,2024,1,2024-08-31T19:30:00.000Z,Air Force,Mountain West,21.0,Merrimack,FCS Independents,6.0,,,,,,,,
+167,401674305,2024,1,2024-08-29T23:00:00.000Z,Wheeling Jesuit,Mountain East,25.0,Mercyhurst,NEC,28.0,,,,,,,,
+168,401643703,2024,1,2024-08-31T04:00:00.000Z,Utah State,Mountain West,36.0,Robert Morris,NEC,14.0,,,,,,,,
+169,401673044,2024,1,2024-08-31T22:00:00.000Z,Stetson,Pioneer,41.0,Ave Maria,,3.0,,,,,,,,
+170,401673370,2024,1,2024-08-29T22:00:00.000Z,Carson-Newman,South Atlantic,50.0,Reinhardt,,7.0,,,,,,,,
+171,401675822,2024,1,2024-08-29T23:00:00.000Z,University of Mary,Northern Sun,23.0,Jamestown,,6.0,,,,,,,,
+172,401693677,2024,1,2024-08-24T04:00:00.000Z,Lincoln University (CA),Independent DII,7.0,College of Idaho,,45.0,,,,,,,,
+173,401654657,2024,1,2024-08-31T16:00:00.000Z,Wagner,NEC,46.0,Virginia Lynchburg,,7.0,,,,,,,,
+174,401674221,2024,1,2024-08-29T23:00:00.000Z,Minot State,Northern Sun,38.0,Valley City State,,7.0,,,,,,,,
+175,401675114,2024,1,2024-08-30T00:00:00.000Z,Stephen F. Austin,Southland,77.0,North American University,,0.0,,,,,,,,
+176,401658348,2024,1,2024-08-31T19:00:00.000Z,Erskine,Gulf South,52.0,St. Andrews,,0.0,,,,,,,,
